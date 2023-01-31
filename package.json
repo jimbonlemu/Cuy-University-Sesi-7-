@@ -1,0 +1,21 @@
+{
+  "name": "sesi-7-cuy-university",
+  "version": "0.0.1",
+  "description": "Cuy University Sesi 7 Backend",
+  "main": "index.js",
+  "scripts": {
+    "nyala": "nodemon index.js"
+  },
+  "keywords": [
+    "Belajar",
+    "Backend",
+    "Node",
+    "JS"
+  ],
+  "author": "perompak_kode",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^2.0.20",
+    "rupiah-format": "^1.0.0"
+  }
+}
